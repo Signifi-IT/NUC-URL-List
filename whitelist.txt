@@ -1,0 +1,13 @@
+# DNS Allowlist — one domain per line
+signifivision.com
+screenconnect.com
+teamviewer.com
+ubuntu.com
+ntp.org
+canonical.com
+googleapis.com
+gstatic.com
+google.com
+googleusercontent.com
+github.com
+githubusercontent.com
