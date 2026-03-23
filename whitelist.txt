@@ -12,3 +12,4 @@ googleusercontent.com
 github.com
 githubusercontent.com
 elementexpress.com
+cardeasexml.com
